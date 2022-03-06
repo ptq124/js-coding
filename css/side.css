@@ -1,0 +1,26 @@
+.side {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-color: #abb2b9;
+  border-radius: 30px;
+  width: 20%;
+  height: 50%;
+  position: absolute;
+  bottom: 10%;
+  left: 2%;
+}
+.side__name {
+  display: flex;
+  justify-content: center;
+  color: #d0d3d4;
+  font-size: 20px;
+}
+#todo-list span {
+  color: #d0d3d4;
+  margin-right: 13px;
+  font-weight: bold;
+}
+#todo-list li {
+  margin-bottom: 10px;
+}

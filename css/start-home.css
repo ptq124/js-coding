@@ -1,0 +1,26 @@
+.start-home {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 20%;
+  right: 35%;
+}
+.start-home__login {
+  margin-bottom: 20px;
+}
+.start-home__login input:first-child {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.start-home__login input:last-child {
+  height: 50px;
+  font-size: 20px;
+}
+.start-home__todo input {
+  width: 500px;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+}
