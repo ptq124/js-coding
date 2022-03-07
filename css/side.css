@@ -24,3 +24,7 @@
 #todo-list li {
   margin-bottom: 10px;
 }
+.side__name {
+  color: #d0d3d4;
+  position: relative;
+}
